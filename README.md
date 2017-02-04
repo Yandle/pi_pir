@@ -4,4 +4,4 @@ Monitor a PIR sensor for motion during a set time of day and play a sound at you
 
 
 ### DISCLAIMER
-The way I code python involves bubble gum, shoe string, and a pinch of Google. I know my code sucks, but it works. The people I freaked out in my office can attest to that
+The way I code python involves bubble gum, shoe string, and a pinch of Google. I know my code sucks, but it works. The people I freaked out in my office can attest to that.
